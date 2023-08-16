@@ -1,0 +1,18 @@
+{
+  "name": "tickettwo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.3.2"
+  },
+  "dependencies": {
+    "html5-qrcode": "^2.3.8",
+    "instascan-v3": "^1.0.5"
+  }
+}

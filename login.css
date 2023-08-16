@@ -1,0 +1,13 @@
+.accedi{
+display: flex;
+font-size: 40px;
+height: 40px;
+width: 140px;
+background-color: bisque;
+border: none;
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 20px;
+margin-top: 20px;
+}
